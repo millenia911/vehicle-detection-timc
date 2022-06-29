@@ -1,5 +1,5 @@
 [core]
-    remote = storage
+    remote = str2
 ['remote "storage"']
     url = s3://freddy-millenia-datasets/timc-vehicle-dataset/
     region = us-east-1
